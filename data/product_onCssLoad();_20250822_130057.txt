@@ -1,0 +1,32 @@
+=== 상품 정보 ===
+검색 키워드: onCssLoad();
+상품명: 환율 안내2025-08-22
+현재가격: 6 원
+원래가격: 6 원
+할인율: 1
+상품설명: null
+판매자: null
+평점: null
+리뷰수: null
+배송정보: null
+상품URL: https://ssadagu.kr/shop/search_view.php
+이미지URL: https://ssadagu.kr/img/bg/top_btn.svg
+수집일시: 2025-08-22 13:00:18
+==================
+
+=== 상세 정보 (JSON 형태) ===
+{
+  "keyword": "onCssLoad();",
+  "productName": "환율 안내2025-08-22",
+  "price": "6 원",
+  "originalPrice": "6 원",
+  "discountRate": "1",
+  "description": "",
+  "seller": "",
+  "rating": "",
+  "reviewCount": "",
+  "deliveryInfo": "",
+  "productUrl": "https://ssadagu.kr/shop/search_view.php",
+  "imageUrl": "https://ssadagu.kr/img/bg/top_btn.svg",
+  "crawledAt": "2025-08-22 13:00:18"
+}
